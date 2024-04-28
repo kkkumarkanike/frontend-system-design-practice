@@ -1,0 +1,18 @@
+.container{
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+}
+
+.star-rating_star{
+     font-size: 30px;
+     color: #bbb;
+     cursor: pointer;
+}
+.hovered{
+     color: #fff0b3;
+}
+.selected{
+     color: #ffcc00;
+}
